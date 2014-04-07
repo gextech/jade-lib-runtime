@@ -1,0 +1,6 @@
+{
+  "name": "jade-runtime",
+  "version": "0.0.1",
+  "description": "Updated copy of jade's runtime (CommonJS)",
+  "main": "index.js"
+}
